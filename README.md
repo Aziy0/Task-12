@@ -1,0 +1,1 @@
+This project showcases a straightforward registration form utilizing HTML, CSS, and JavaScript. The form includes fields for the user's First Name, Last Name, Email, Phone Number, Password, and Password Confirmation. It features client-side validation to ensure that both password fields match before submission.
